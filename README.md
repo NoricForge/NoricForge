@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NoricForge
-- 👀 I’m interested in (portable) SBS stereo 3D gaming
+- 👀 I’m interested in (portable) stereo 3D gaming
 - 📫 How to reach me noricforge@gmail.com
 
 <!---
